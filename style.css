@@ -1,0 +1,126 @@
+.page {
+  
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+    height: 400px;
+}
+
+h2 {
+  font-size: 33px;
+}
+
+h1 {
+  font-size: 70px;
+  margin-top: -45px;
+}
+
+.maintitle {
+  position: absolute;
+  height: 400px;
+  width: 1270px;
+}
+
+.title {
+  position: absolute;
+  left: 290px;
+  top: 210px;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  letter-spacing: 2px;
+}
+
+.body {
+  margin: auto;
+  width: 700px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+
+.skills {
+  font-size: 20px;
+  margin-top: 60px;
+  padding: 0px;
+  width: 740px;
+  font-family: ‘Josefin Sans’ font, #222 grey
+  letter-spacing: 2px;
+  left: 500px;
+  line-height: 28px;
+}
+
+ul {
+  margin-top: 20px;
+  line-height: 28px;
+}
+
+li {
+  font-size: 20px;
+}
+
+blockquote {
+  color: white;
+  font-size: 45px;
+  background: #222;
+  width: 110%;
+  margin: 50px 0px 62px -5%;
+  border: solid green;
+  font-family: 'Abril Fatface', cursive;
+  padding: 38px;
+}
+
+.mark {
+  border: solid pink;
+  position: absolute;
+}
+
+.quote {
+  line-height: 65px;
+  position: relative;
+  border: solid red;
+}
+
+.subtitle {
+  color: #222;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-bottom: 60px;
+}
+
+.bulletpoint {
+  font-size: 23px;
+  font-weight: bold;
+  line-height: 35px;
+  margin: 50px 0px 0px 0px;
+}
+
+.details {
+  font-size: 14.5px;
+  font-weight: bold;
+  letter-spacing: 0px;
+  line-height: 25px;
+  margin-bottom: 35px;
+}
+
+.subbullet {
+  font-size: 18px;
+  font-style: italic;
+  margin: 0px 0px 20px 0px;
+}
+
+.sublist {
+  font-size: 15px;
+  line-height: 23px;
+}
+
+hr {
+   border: 1.5px solid black;
+  margin: 50px 0px 50px -2%;
+  width: 104%;
+}
